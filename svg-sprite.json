@@ -38,6 +38,7 @@
     ]
   },
   "svg": {
-    "namespaceClassnames": false
+    "namespaceClassnames": false,
+    "xmlDeclaration": false
   }
 }
